@@ -1,0 +1,47 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1,h2{
+  font-family: "Playwrite DK Loopet"; Marr Sans; Arial; Sans Serif;
+  color: darkorange;
+  font-size: 40px;
+  
+.playwrite-dk-loopet-<uniquifier> {
+  font-family: "Playwrite DK Loopet", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
+h1{
+   color:indianred;
+   width: 800px;
+   border:1px solid black;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p{
+  font-family: Arial; Sans Serif;
+  width: 800px;
+  color: black;
+  font-size: 20px;
+}
+
+.chat,.parc{
+  width : 300px;
+}
+
+a {
+  color: blueviolet;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
